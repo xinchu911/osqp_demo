@@ -161,7 +161,7 @@ int main()
 ```
 完整工程请参考[github](https://github.com/xinchu911/osqp_demo)
 
-元算输出结果为
+运算输出结果为
 ```
 QPSolution
 1.0003
