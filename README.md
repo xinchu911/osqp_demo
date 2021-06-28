@@ -1,7 +1,8 @@
 # 利用OSQP库计算标准二次规划(QP)问题的实例
-
+[TOC]
 ## OSQP介绍
 Apollo使用的二次规划求解使用的为OSQP,因此调查试用了一下.
+由于github不支持公式,完整版请参照README.html.
 
 ### [OSQP官网](https://osqp.org/)介绍,特点如下:
 * Efficient
@@ -61,7 +62,7 @@ $s.t.$
 $$ 1<=x_1<=1.5 \\ 1<=x_2<=1.5 $$
 
 图解下图
-![示意图](osqp_instancec.JPG)
+![示意图](osqp_instancec.jpg)
 
 显而易见,最优解为$$ \begin{bmatrix} 1.0 \\ 1.0\end{bmatrix}$$
 转化成矩阵形式:
@@ -158,7 +159,7 @@ int main()
     return 0;
 }
 ```
-完整工程请参考[github]()
+完整工程请参考[github](https://github.com/xinchu911/osqp_demo)
 
 元算输出结果为
 ```
