@@ -2,7 +2,7 @@
 [TOC]
 ## OSQP介绍
 Apollo使用的二次规划求解使用的为OSQP,因此调查试用了一下.
-由于github不支持公式,完整版请参照README.html.
+由于github不支持公式,完整版请参照README.pdf.
 
 ### [OSQP官网](https://osqp.org/)介绍,特点如下:
 * Efficient
