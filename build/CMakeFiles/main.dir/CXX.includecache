@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rgs/Desktop/1.code/simple_test/osqp/src/main.cpp
+OsqpEigen/OsqpEigen.h
+/home/rgs/Desktop/1.code/simple_test/osqp/src/OsqpEigen/OsqpEigen.h
+Eigen/Dense
+-
+iostream
+-
+

@@ -1,0 +1,3 @@
+/home/rgs/Desktop/1.code/simple_test/osqp/build/CMakeFiles/rebuild_cache.dir
+/home/rgs/Desktop/1.code/simple_test/osqp/build/CMakeFiles/edit_cache.dir
+/home/rgs/Desktop/1.code/simple_test/osqp/build/CMakeFiles/main.dir

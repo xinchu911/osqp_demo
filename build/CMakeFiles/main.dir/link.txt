@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/src/main.cpp.o  -o main -Wl,-rpath,/usr/local/lib /usr/local/lib/libOsqpEigen.so.0.6.4 /usr/local/lib/libosqp.so 
